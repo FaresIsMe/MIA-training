@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Task3\\Salad\\Salad.ino",
+    "port": "COM7",
+    "programmer": "avrisp"
+}
