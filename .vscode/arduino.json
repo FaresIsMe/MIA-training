@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "Task3\\Salad\\Salad.ino",
+    "sketch": "Task1\\heros_vs_villians.cpp",
     "port": "COM7",
     "programmer": "avrisp"
 }
