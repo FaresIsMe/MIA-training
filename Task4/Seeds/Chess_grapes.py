@@ -4,8 +4,11 @@ import sys
 # Initialize Pygame
 pygame.init()
 
+
+font = pygame.font.SysFont(None, 36)
+
 # Screen dimensions
-WIDTH, HEIGHT = 800, 800
+WIDTH, HEIGHT = 800, 900
 SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Chess")
 
@@ -123,19 +126,17 @@ def is_valid_king_move(start_pos, end_pos):
 
 # Draw the board
 def draw_board(screen):
+    screen.fill(BLACK)
     colors = [pygame.Color("white"), pygame.Color("gray")]
     for r in range(8):
         for c in range(8):
             color = colors[(r + c) % 2]
             pygame.draw.rect(screen, color, pygame.Rect(c*100, r*100, 100, 100))
 
-# Draw the board
-def draw_board(screen):
-    colors = [pygame.Color("white"), pygame.Color("gray")]
-    for r in range(8):
-        for c in range(8):
-            color = colors[(r + c) % 2]
-            pygame.draw.rect(screen, color, pygame.Rect(c*100, r*100, 100, 100))
+
+def draw_turn(screen, player_turn):
+    text = font.render(f"Turn: {'white' if player_turn == "w" else 'black'}", True, WHITE)
+    screen.blit(text, (100, 850))
 
 
 # Main game loop
@@ -165,7 +166,9 @@ def main():
 
         draw_board(SCREEN)
         draw_pieces(SCREEN, board)
+        draw_turn(SCREEN, player_turn)
         pygame.display.flip()
+        
 
     pygame.quit()
     sys.exit()
