@@ -1,4 +1,4 @@
-Chess Game Documentation
+## Chess Game Documentation
 # 1. Initialize Pygame
 The Pygame library is initialized to set up the environment for the game. This includes setting up the display and preparing the game window.
 
