@@ -1,0 +1,173 @@
+Added Component: Designator=D1(Diode DO_41)
+Add component (AddParameter): Name = "Manifacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part  number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1N4007FSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(Diode DO_41)
+Add component (AddParameter): Name = "Manifacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part  number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1N4007FSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(Diode DO_41)
+Add component (AddParameter): Name = "Manifacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part  number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1N4007FSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D4(Diode DO_41)
+Add component (AddParameter): Name = "Manifacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part  number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1N4007FSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO254P469X1042X1967-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IRF9Z24NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irf9z24npbf/infineon-technologies-ag?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/irf9z24npbf.pdf?fileId=5546d462533600a40153561218961ddb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.69mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRF9Z24NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRF9Z24NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRF9Z24NPBF?qs=9%252BKlkBgLFf36xC9PMFW8Lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO254P469X1042X1967-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IRF9Z24NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irf9z24npbf/infineon-technologies-ag?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/irf9z24npbf.pdf?fileId=5546d462533600a40153561218961ddb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.69mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRF9Z24NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRF9Z24NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRF9Z24NPBF?qs=9%252BKlkBgLFf36xC9PMFW8Lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO-92_FAIRCHILD)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BS170_D26Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bs170-d26z/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BS170_D26Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-BS170D26Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=38EqnX883HDzR6DEwmZa%2fA%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TO-92_FAIRCHILD)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BS170_D26Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bs170-d26z/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BS170_D26Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-BS170D26Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=38EqnX883HDzR6DEwmZa%2fA%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor THT)
+Add component (AddParameter): Name = "Manifacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manifacturer Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Degi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CF14JT1K00TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Added Component: Designator=X1(TERM BLK 2P)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Weidmüller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1760510000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "281-1882-ND"; VariantName = "[No Variations]"
+Added Component: Designator=X2(TERM BLK 2P)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Weidmüller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1760510000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "281-1882-ND"; VariantName = "[No Variations]"
+Added Component: Designator=X3(TERM BLK 2P)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Weidmüller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1760510000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "281-1882-ND"; VariantName = "[No Variations]"
+Added Component: Designator=X4(TERM BLK 2P)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Weidmüller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1760510000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "281-1882-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1 Pin=R4-2
+Added Pin To Net: NetName=1 Pin=X3-0
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=R3-1
+Added Pin To Net: NetName=2 Pin=X3-1
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=R5-2
+Added Pin To Net: NetName=3 Pin=X4-0
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=R6-1
+Added Pin To Net: NetName=4 Pin=X4-1
+Added Net: Name=4
+Added Pin To Net: NetName=GND Pin=D3-8
+Added Pin To Net: NetName=GND Pin=D4-8
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=X1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R4-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R6-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R8-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R5-1
+Added Pin To Net: NetName=NetQ4_2 Pin=R7-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=out1 Pin=D1-8
+Added Pin To Net: NetName=out1 Pin=D3-9
+Added Pin To Net: NetName=out1 Pin=Q2-3
+Added Pin To Net: NetName=out1 Pin=Q4-1
+Added Pin To Net: NetName=out1 Pin=X2-1
+Added Net: Name=out1
+Added Pin To Net: NetName=out2 Pin=D2-8
+Added Pin To Net: NetName=out2 Pin=D4-9
+Added Pin To Net: NetName=out2 Pin=Q1-3
+Added Pin To Net: NetName=out2 Pin=Q3-1
+Added Pin To Net: NetName=out2 Pin=X2-0
+Added Net: Name=out2
+Added Pin To Net: NetName=VCC Pin=D1-9
+Added Pin To Net: NetName=VCC Pin=D2-9
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=Q2-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=X1-0
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
