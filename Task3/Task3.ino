@@ -1,7 +1,3 @@
-
-
-// C++ code
-//
 int LDR_value, BUZZ = 3;
 
 /**
@@ -27,3 +23,4 @@ void loop()
     if (LDR_value > 500)
   	tone(BUZZ, 100, 1000);
 }
+
