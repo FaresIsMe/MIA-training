@@ -1,0 +1,1 @@
+[I already did all that ](https://github.com/FaresIsMe/alx-system_engineering-devops/tree/main/0x00-shell_basics)

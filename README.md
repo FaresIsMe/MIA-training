@@ -1,7 +1,6 @@
 # MIA training 2024 
 
-### Fares Elzeny E-4660
-
+### Fares Elzeny - Electrical  - 4660
 
 ## 1. C/C++ Basics
 [Task 1](https://github.com/FaresIsMe/MIA-training/tree/main/Task1) 
@@ -22,4 +21,4 @@
 [Task 6](https://github.com/FaresIsMe/MIA-training/tree/main/Task6) 
 
 ## 7. Linux and Bash Scripting
-[Task 7](https://github.com/FaresIsMe/MIA-training/tree/main/Task7) 
+[Task 7](https://github.com/FaresIsMe/alx-system_engineering-devops/tree/main/0x00-shell_basics) 
