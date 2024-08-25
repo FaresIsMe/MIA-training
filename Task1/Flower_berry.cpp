@@ -10,7 +10,7 @@ using namespace std;
  * largestNumber - find the largest number in an array
  * $numbers - It's the array
  * $num - The length of the array
- * 
+ *
  * returns the largest number
  */
 int largestNumber(int *numbers, int num)
@@ -26,7 +26,7 @@ int largestNumber(int *numbers, int num)
 }
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int num =0, value = 0;
 
     cin >> num;
@@ -37,9 +37,9 @@ int main() {
         cin >> value;
         numbers[i] = value;
     }
-    
+
     cout << largestNumber(numbers, num) << endl;
     return 0;
 }
 
-// I like cats
+// I like cats and dogs!
